@@ -11,16 +11,16 @@ In 2015 I was finalist in iOS application development competition. The idea of t
 
 ## Project
 
-Application AlzSafe is directed at elderly people with Alzheimer`s disease and dementia. The insipration for the app was a movie [Still Alice](https://www.imdb.com/title/tt3316960/) where A linguistics professor and her family find their bonds tested when she is diagnosed with Alzheimer's Disease.
+Application AlzSafe is directed at elderly people with Alzheimer's disease and dementia. The insipration for the app was a movie [Still Alice](https://www.imdb.com/title/tt3316960/) where A linguistics professor and her family find their bonds tested when she is diagnosed with Alzheimer's Disease.
 
 ### AlzSafe What it is?
-Application AlzSafe is directed at elderly people with Alzheimer`s disease and dementia. This app takes weight of shoulders and gives sense of freedom for people in such condition by notifying them  who they are.
+Application AlzSafe is directed at elderly people with Alzheimer's disease and dementia. This app takes weight of shoulders and gives sense of freedom for people in such condition by notifying them  who they are.
 
-Alzsafe is also a mapping application that lets you easily locate a person or receive alerts when they moved beyond a pre-set zone. It doesn`t need any additional center. It`s flexible and by flexible I mean that the app is easily configurable.
+Alzsafe is also a mapping application that lets you easily locate a person or receive alerts when they moved beyond a pre-set zone. It doesn't need any additional center. It's flexible and by flexible I mean that the app is easily configurable.
 
 ### How it works:
 
-Imagine protoGrand called John, he`s 66. John have Alzheimer`s disease and he has attendant. Attendant takes care of John everyday, but sometimes John disappears for long hours, he likes to exercise alone. So attendant equips John with phone and watch each morning. John goes outside his home and doesn`t take phone calls, but he`s got Alzsafe app on phone. 
+Imagine protoGrand called John, he's 66. John have Alzheimer's disease and he has attendant. Attendant takes care of John everyday, but sometimes John disappears for long hours, he likes to exercise alone. So attendant equips John with phone and watch each morning. John goes outside his home and doesn't take phone calls, but he's got Alzsafe app on phone. 
 
 When John will be too long too far from safe location for example 15 minutes, watch will send him a bunch of notifications with proper information about him with option to call the rescue contact. After 30 minutes attendant with Alzsafe app on phone will be also notified about Johns location. If John notice the notification he can read info about him and choose to alarm attendant by calling him or tap the notification to open the app, this action will stop incoming notifications and the whole process of notifying will be repeated after another 15 minutes.
 
