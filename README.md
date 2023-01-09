@@ -1,7 +1,7 @@
 # AlzSafe
 Project related to Kainos AppCamp competition https://www.facebook.com/appcamp.polska
 
-I was finalist in iOS application development competition. The idea of the competition was to create an Apple Watch medical application using Swift language. Here is movie from the workshops
+In 2015 I was finalist in iOS application development competition. The idea of the competition was to create an Apple Watch medical application using Swift language. Here is movie from the workshops. To have some record of this event I will use this repository for files related to the project that could be shared.
 
 <a href="https://www.youtube.com/watch?v=GuDmsc_1L7g" target="blank">
 <div>
