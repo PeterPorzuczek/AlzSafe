@@ -39,6 +39,10 @@ And here we see what will happen after opening the notification not on watch but
 
 The most important screen for app is notification screen, but after launching the app on watch we will see info about user and here in center is the main screen. in the left corner we have notification screen and on the right corner we have glance screen, short look with all needed information. and Now you can see notification in action. In the iphone app when user logs in to the carer user and as a carer we can add up to two persons with Alzheimer. After adding we are able to see last location of the user and information about the distance from the safe location and we can sent this person a message. Additionally attendant also have watch app so he can access all the data on watch too.
 
+## Finals
+
+We have presented our applications at the Apple headquarters in London and they were very well received. The team there was impressed with the quality of our work and the potential of our products. They gave us some very positive feedback and we are now working on further developing our products. We are confident that we can create something truly special and innovative that will change the way people use their mobile devices.
+
 ## Licence 
 
 Code for the project is owned by the competition organisers.
