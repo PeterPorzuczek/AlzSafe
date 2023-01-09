@@ -11,7 +11,7 @@ In 2015 I was finalist in iOS application development competition. The idea of t
 
 ## Project
 
-Application AlzSafe is directed at elderly people with Alzheimer`s disease and dementia. 
+Application AlzSafe is directed at elderly people with Alzheimer`s disease and dementia. The insipration for the app was a movie [Still Alice](https://www.imdb.com/title/tt3316960/) where A linguistics professor and her family find their bonds tested when she is diagnosed with Alzheimer's Disease.
 
 ### AlzSafe What it is?
 Application AlzSafe is directed at elderly people with Alzheimer`s disease and dementia. This app takes weight of shoulders and gives sense of freedom for people in such condition by notifying them  who they are.
