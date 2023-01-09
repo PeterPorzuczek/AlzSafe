@@ -41,7 +41,7 @@ The most important screen for app is notification screen, but after launching th
 
 ## Finals
 
-We have presented our applications at the Apple headquarters in London and they were very well received. The team there was impressed with the quality of our work and the potential of our products. They gave us some very positive feedback and we are now working on further developing our products. We are confident that we can create something truly special and innovative that will change the way people use their mobile devices.
+We have presented our applications at the Apple headquarters in London and they were very well received. The team there was impressed with the quality of each final project and the potential of our products. There were five finalist. They gave us very positive feedback. Whole experience to meet Apple developers was really great opportunity!
 
 ## Licence 
 
