@@ -3,7 +3,7 @@ Project related to Kainos AppCamp competition https://www.facebook.com/appcamp.p
 
 I was finalist in iOS application development competition. The idea of the competition was to create an Apple Watch medical application using Swift language. Here is movie from the workshops
 
-<a href="https://www.youtube.com/watch?v=GuDmsc_1L7g">
+<a href="https://www.youtube.com/watch?v=GuDmsc_1L7g" target="blank">
 <div>
 	<img src="https://i.imgur.com/MKUoiy3.png" alt="app-preview" width="70%">
 </div>
@@ -26,7 +26,7 @@ When John will be too long too far from safe location for example 15 minutes, wa
 
 ### How it looks:
 
-<a href="https://youtu.be/hIPsao7xe8Y">
+<a href="https://youtu.be/hIPsao7xe8Y" target="blank">
 <div>
 	<img src="https://i.imgur.com/iyDE1NF.png" alt="app-preview" width="70%">
 </div>
