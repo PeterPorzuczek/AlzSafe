@@ -43,6 +43,13 @@ The most important screen for app is notification screen, but after launching th
 
 We have presented our applications at the Apple headquarters in London and they were very well received. The team there was impressed with the quality of each final project and the potential of our products. There were five finalist. They gave us very positive feedback. Whole experience to meet Apple developers was really great opportunity!
 
+
+<a href="https://www.facebook.com/kainos.polska/photos/a.176825405696542/961364600575948" target="blank">
+<div>
+	<img src="https://scontent-frx5-1.xx.fbcdn.net/v/t31.18172-8/11231330_961364600575948_6214287834673932720_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9267fe&_nc_ohc=o7UVOQYHv0AAX9dT5W5&_nc_ht=scontent-frx5-1.xx&oh=00_AfDzlkYjiqPEzPJcz_AKm5osGuRzrmpCazUGLenLgLENow&oe=63E4DD88" alt="app-preview" width="70%">
+</div>
+</a>
+
 ## Licence 
 
 Code for the project is owned by the competition organisers.
